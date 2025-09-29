@@ -1,0 +1,14 @@
+C:\CNPM2-HK1\ppptpm\lab1\HinhChuNhat\bin\Debug\net9.0\HinhChuNhat.exe
+C:\CNPM2-HK1\ppptpm\lab1\HinhChuNhat\bin\Debug\net9.0\HinhChuNhat.deps.json
+C:\CNPM2-HK1\ppptpm\lab1\HinhChuNhat\bin\Debug\net9.0\HinhChuNhat.runtimeconfig.json
+C:\CNPM2-HK1\ppptpm\lab1\HinhChuNhat\bin\Debug\net9.0\HinhChuNhat.dll
+C:\CNPM2-HK1\ppptpm\lab1\HinhChuNhat\bin\Debug\net9.0\HinhChuNhat.pdb
+C:\CNPM2-HK1\ppptpm\lab1\HinhChuNhat\obj\Debug\net9.0\HinhChuNhat.GeneratedMSBuildEditorConfig.editorconfig
+C:\CNPM2-HK1\ppptpm\lab1\HinhChuNhat\obj\Debug\net9.0\HinhChuNhat.AssemblyInfoInputs.cache
+C:\CNPM2-HK1\ppptpm\lab1\HinhChuNhat\obj\Debug\net9.0\HinhChuNhat.AssemblyInfo.cs
+C:\CNPM2-HK1\ppptpm\lab1\HinhChuNhat\obj\Debug\net9.0\HinhChuNhat.csproj.CoreCompileInputs.cache
+C:\CNPM2-HK1\ppptpm\lab1\HinhChuNhat\obj\Debug\net9.0\HinhChuNhat.dll
+C:\CNPM2-HK1\ppptpm\lab1\HinhChuNhat\obj\Debug\net9.0\refint\HinhChuNhat.dll
+C:\CNPM2-HK1\ppptpm\lab1\HinhChuNhat\obj\Debug\net9.0\HinhChuNhat.pdb
+C:\CNPM2-HK1\ppptpm\lab1\HinhChuNhat\obj\Debug\net9.0\HinhChuNhat.genruntimeconfig.cache
+C:\CNPM2-HK1\ppptpm\lab1\HinhChuNhat\obj\Debug\net9.0\ref\HinhChuNhat.dll

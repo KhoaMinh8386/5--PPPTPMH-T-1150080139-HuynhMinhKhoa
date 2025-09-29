@@ -1,0 +1,14 @@
+C:\CNPM2-HK1\ppptpm\lab1\ThucHanh5\bin\Debug\net9.0\ThucHanh5.exe
+C:\CNPM2-HK1\ppptpm\lab1\ThucHanh5\bin\Debug\net9.0\ThucHanh5.deps.json
+C:\CNPM2-HK1\ppptpm\lab1\ThucHanh5\bin\Debug\net9.0\ThucHanh5.runtimeconfig.json
+C:\CNPM2-HK1\ppptpm\lab1\ThucHanh5\bin\Debug\net9.0\ThucHanh5.dll
+C:\CNPM2-HK1\ppptpm\lab1\ThucHanh5\bin\Debug\net9.0\ThucHanh5.pdb
+C:\CNPM2-HK1\ppptpm\lab1\ThucHanh5\obj\Debug\net9.0\ThucHanh5.GeneratedMSBuildEditorConfig.editorconfig
+C:\CNPM2-HK1\ppptpm\lab1\ThucHanh5\obj\Debug\net9.0\ThucHanh5.AssemblyInfoInputs.cache
+C:\CNPM2-HK1\ppptpm\lab1\ThucHanh5\obj\Debug\net9.0\ThucHanh5.AssemblyInfo.cs
+C:\CNPM2-HK1\ppptpm\lab1\ThucHanh5\obj\Debug\net9.0\ThucHanh5.csproj.CoreCompileInputs.cache
+C:\CNPM2-HK1\ppptpm\lab1\ThucHanh5\obj\Debug\net9.0\ThucHanh5.dll
+C:\CNPM2-HK1\ppptpm\lab1\ThucHanh5\obj\Debug\net9.0\refint\ThucHanh5.dll
+C:\CNPM2-HK1\ppptpm\lab1\ThucHanh5\obj\Debug\net9.0\ThucHanh5.pdb
+C:\CNPM2-HK1\ppptpm\lab1\ThucHanh5\obj\Debug\net9.0\ThucHanh5.genruntimeconfig.cache
+C:\CNPM2-HK1\ppptpm\lab1\ThucHanh5\obj\Debug\net9.0\ref\ThucHanh5.dll

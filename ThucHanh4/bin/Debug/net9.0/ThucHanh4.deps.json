@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ThucHanh4/1.0.0": {
+        "runtime": {
+          "ThucHanh4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ThucHanh4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
